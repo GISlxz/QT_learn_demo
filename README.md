@@ -1,1 +1,0 @@
-# QT_learn_demo
